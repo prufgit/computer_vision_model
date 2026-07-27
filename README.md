@@ -1,1 +1,1 @@
-Computer Vision model
+Animal Model Trainer
